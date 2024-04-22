@@ -16,11 +16,12 @@ To get started with `HandGesture-SoftwareController`, follow these steps:
 
    ```bash
    git clone https://github.com/EthanSpleefan/HandGuesture-SoftwareController.git
-   ```
+
 2. **Dependencies**: Ensure all dependencies inside of `requirements.txt` have been installed on your machine. Use:
 
    ```bash
    pip install <library>
    ```
    Replace `<library>` with the library names that you haven't installed.
-3. **Run the file.** Open it in your code editor and Run the `app.py` file.
+   
+4. **Run the file.** Open it in your code editor and Run the `app.py` file.
